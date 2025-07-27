@@ -1,54 +1,40 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<h1 align="center">✨ Streamify – Fullstack Chat & Video Calling App ✨</h1>
 
+<p align="center">
+  <img src="/frontend/public/screenshot-for-readme.png" alt="Demo Screenshot" />
+</p>
 
-Highlights:
-
-- 🌐 Real-time Messaging with Typing Indicators & Reactions
-- 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
-- 🔐 JWT Authentication & Protected Routes
-- 🌍 Language Exchange Platform with 32 Unique UI Themes
-- ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
-- 🧠 Global State Management with Zustand
-- 🚨 Error Handling (Frontend & Backend)
-- 🚀 Free Deployment
-- 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
+A powerful language-learning focused chat and video calling platform with real-time communication, intuitive UI, and modern scalable architecture.
 
 ---
 
-## 🧪 .env Setup
+## 🚀 Features
 
-### Backend (`/backend`)
-
-```
-PORT=5001
-MONGO_URI=your_mongo_uri
-STEAM_API_KEY=your_steam_api_key
-STEAM_API_SECRET=your_steam_api_secret
-JWT_SECRET_KEY=your_jwt_secret
-NODE_ENV=development
-```
-
-### Frontend (`/frontend`)
-
-```
-VITE_STREAM_API_KEY=your_stream_api_key
-```
+- 🌐 **Real-time Chat** – Instant messaging with typing indicators, emojis & reactions.
+- 📹 **Video Calling** – 1-on-1 and group calls with screen sharing & recording.
+- 🧑‍🤝‍🧑 **Friend System** – Send, accept or decline friend requests.
+- 🔔 **Notifications** – Live notifications for messages and friend activities.
+- 🔐 **Authentication** – JWT-based user auth with protected routes.
+- 🎨 **32 UI Themes** – Rich and customizable user interface themes.
+- 📦 **State Management** – Zustand used for lightweight and global state handling.
+- 🌍 **Language Exchange Focus** – Tailored for users to practice languages.
+- ⚙️ **Robust Backend** – Built with Express and MongoDB, with proper error handling.
+- 📡 **Real-time Tech** – Powered by [GetStream.io](https://getstream.io) for messaging and video.
 
 ---
 
-## 🔧 Run the Backend
+## 🛠 Tech Stack
 
-```bash
-cd backend
-npm install
-npm run dev
-```
+- **Frontend**: React, Tailwind CSS, TanStack Query, Zustand, Vite
+- **Backend**: Node.js, Express, MongoDB, JWT
+- **Real-time & Video**: Stream API (Chat & Video SDK)
+- **Deployment**: Free deployment on platforms like Railway, Render, or Vercel
 
-## 💻 Run the Frontend
+---
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+## 📁 Project Structure
+
+/streamify
+├── backend # Node.js + Express + MongoDB
+└── frontend # React + TailwindCSS + Zustand
+
