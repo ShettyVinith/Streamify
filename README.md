@@ -41,37 +41,63 @@ A powerful language-learning focused chat and video calling platform with real-t
 
 ## 🧪 .env Setup
 
-### Backend (/backend)
+### Backend (`/backend`)
 
+```
 PORT=5001
 MONGO_URI=your_mongo_uri
 STEAM_API_KEY=your_steam_api_key
 STEAM_API_SECRET=your_steam_api_secret
 JWT_SECRET_KEY=your_jwt_secret
 NODE_ENV=development
+```
 
+### Frontend (`/frontend`)
 
-### Frontend (/frontend)
-
+```
 VITE_STREAM_API_KEY=your_stream_api_key
-
+```
 
 ---
 
 ## 🔧 Run the Backend
 
-bash
+```
 cd backend
 npm install
 npm run dev
-
+```
 
 ## 💻 Run the Frontend
 
-bash
+```
 cd frontend
 npm install
 npm run dev
+```
 
+## 🧠 Future Ideas
+
+- 🌐 Multi-language support  
+- 💬 AI-based translation assistant  
+- 📈 User insights dashboard  
+- 🌍 Public rooms and interest-based match-making  
+
+---
+
+## 📸 Preview
+
+![Chat Preview](/frontend/public/screenshot-for-readme.png)
+
+---
+
+## 💬 Connect
+
+Have suggestions or feedback? Feel free to reach out or open an issue!  
+Let’s make language learning fun and social.
+
+---
+
+> Built with ❤️ by [Vinith Shetty](https://github.com/vinithshetty)
 
 
