@@ -76,6 +76,8 @@ npm install
 npm run dev
 ```
 
+---
+
 ## 🧠 Future Ideas
 
 - 🌐 Multi-language support  
@@ -85,11 +87,6 @@ npm run dev
 
 ---
 
-## 📸 Preview
-
-![Chat Preview](/frontend/public/screenshot-for-readme.png)
-
----
 
 ## 💬 Connect
 
@@ -98,6 +95,6 @@ Let’s make language learning fun and social.
 
 ---
 
-> Built with ❤️ by [Vinith Shetty](https://github.com/vinithshetty)
+> Built with ❤️ by [Vinith Shetty]([https://github.com/vinithshetty](https://github.com/ShettyVinith/))
 
 
