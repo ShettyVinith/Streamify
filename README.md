@@ -28,13 +28,16 @@ A powerful language-learning focused chat and video calling platform with real-t
 - **Frontend**: React, Tailwind CSS, TanStack Query, Zustand, Vite
 - **Backend**: Node.js, Express, MongoDB, JWT
 - **Real-time & Video**: Stream API (Chat & Video SDK)
-- **Deployment**: Free deployment on platforms like Railway, Render, or Vercel
+- **Deployment**: Free deployment on Render
 
 ---
 
 ## 📁 Project Structure
-
+```
 /streamify
 ├── backend # Node.js + Express + MongoDB
 └── frontend # React + TailwindCSS + Zustand
+```
+
+
 
