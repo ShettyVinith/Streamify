@@ -95,6 +95,6 @@ Let’s make language learning fun and social.
 
 ---
 
-> Built with ❤️ by [Vinith Shetty]([https://github.com/vinithshetty](https://github.com/ShettyVinith/))
+> Built with ❤️ by [Vinith Shetty](https://github.com/ShettyVinith/)
 
 
