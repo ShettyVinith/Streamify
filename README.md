@@ -1,9 +1,5 @@
 <h1 align="center">✨ Streamify – Fullstack Chat & Video Calling App ✨</h1>
 
-<p align="center">
-  <img src="/frontend/public/screenshot-for-readme.png" alt="Demo Screenshot" />
-</p>
-
 A powerful language-learning focused chat and video calling platform with real-time communication, intuitive UI, and modern scalable architecture.
 
 ---
